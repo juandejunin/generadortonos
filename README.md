@@ -20,9 +20,11 @@ public static void main(String[] args) {
 
 Este proyecto utiliza Maven para gestionar las dependencias. Asegúrate de tener Maven instalado y ejecuta el siguiente comando para compilar y ejecutar el proyecto:
 
-´´´
+```
 mvn compile exec:java
-´´´
+```
+
+
 ## Detalles del Código
 
 GeneratorTones.java: Contiene el método main para ejecutar el generador y la función playTone que reproduce tonos.
